@@ -1,7 +1,7 @@
 #  TITLE
 DESCRIPTION ...
 
-## Example:
+## 🧰 Example:
 ```swift
 ```
 
