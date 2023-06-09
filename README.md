@@ -7,8 +7,8 @@ DESCRIPTION ...
 
 ## ℹ️  GETTING STARTED
 ### PREREQUISITES 
-- Swift 4+
-- Xcode 10+
+- Swift 5.7+
+- Xcode 14.3.1+
 
 ### INSTALATION
 1. Open your terminal in location that you want save the project.
